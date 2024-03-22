@@ -1,6 +1,6 @@
 # RICH-CAT
 
-This is the repository that contains source code for the [RICH-CAT website](https://rich-cat.github.io).
+This is the repository that contains source code for the [RICH-CAT website](https://xymsh.github.io/RICH-CAT).
 
 If you find RICH-CAT useful for your work please cite:
 ```
