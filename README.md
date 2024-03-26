@@ -4,11 +4,11 @@ This is the repository that contains source code for the [RICH-CAT website](http
 
 If you find RICH-CAT useful for your work please cite:
 ```
-@article{ma2023richcat,
+@article{ma2024richcat,
   author    = {Ma, Sihan and Cao, Qiong and Zhang, Jing and Tao, Dacheng},
   title     = {Contact-aware Human Motion Generation from Textual Descriptions},
-  journal   = {arXiv preprint arXiv:},
-  year      = {2023},
+  journal   = {arXiv preprint arXiv:2403.15709},
+  year      = {2024},
 }
 ```
 
